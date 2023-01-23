@@ -14,16 +14,23 @@ difference
 ## Supported Devices:
    This program is supported on all operating systems such as _Linux_, _Windows_ and _MacOs_. The code is written in _python3_, so don't worry, it works fine without any errors.
 
+
+---------------------------------------------
 ## Install (_Windows / Linux / MacOs / Termux_):
-“”
+
 apt-get update -y
+
 apt-get install git
+
 Clone git https://github.com/Jokergazaa/RDDoS_Tool.git
+
 RDDoS_Tool CD
+
 bash setup.sh
+
 python3 RDDoS_Tool.py
 “”
-
+------------------------------------------------------------------------------------
 ## Single line installation:
 “”
 apt-get update -y && apt-get install git && git clone https://github.com/Jokergazaa/RDDoS_Tool.git && cd RDDoS_Tool && bash setup.sh && python3 RDDoS_Tool.py
