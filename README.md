@@ -33,7 +33,11 @@ python3 RDDoS_Tool.py
 ------------------------------------------------------------------------------------
 ## Single line installation:
 “”
-apt-get update -y && apt-get install git && git clone https://github.com/Jokergazaa/RDDoS_Tool.git && cd RDDoS_Tool && bash setup.sh && python3 RDDoS_Tool.py
+apt-get update -y && 
+apt-get install git && 
+git clone https://github.com/Jokergazaa/RDDoS_Tool.git && 
+cd RDDoS_Tool && bash setup.sh
+ && python3 RDDoS_Tool.py
 “”
 
 ## mistakes? Troubleshoot here:
